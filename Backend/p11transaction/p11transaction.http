@@ -1,0 +1,6 @@
+@p11transaction_HostAddress = http://localhost:3011
+
+GET {{p11transaction_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
